@@ -1,0 +1,13 @@
+C:\Users\Leandro\Desktop\Projetos C#\Config HC\Config HC\obj\x86\Debug\Config HC.csprojResolveAssemblyReference.cache
+C:\Users\Leandro\Desktop\Projetos C#\Config HC\Config HC\obj\x86\Debug\Config_HC.Form1.resources
+C:\Users\Leandro\Desktop\Projetos C#\Config HC\Config HC\obj\x86\Debug\Config_HC.FormCodigo.resources
+C:\Users\Leandro\Desktop\Projetos C#\Config HC\Config HC\obj\x86\Debug\Config_HC.FormSobre.resources
+C:\Users\Leandro\Desktop\Projetos C#\Config HC\Config HC\obj\x86\Debug\Config_HC.Properties.Resources.resources
+C:\Users\Leandro\Desktop\Projetos C#\Config HC\Config HC\obj\x86\Debug\Config HC.csproj.GenerateResource.Cache
+C:\Users\Leandro\Desktop\Projetos C#\Config HC\Config HC\obj\x86\Debug\Config_HC.FormArduino.resources
+C:\Users\Leandro\Desktop\Projetos C#\Config HC\Config HC\bin\Debug\Config HC.exe
+C:\Users\Leandro\Desktop\Projetos C#\Config HC\Config HC\bin\Debug\Config HC.pdb
+C:\Users\Leandro\Desktop\Projetos C#\Config HC\Config HC\obj\x86\Debug\Config HC.exe
+C:\Users\Leandro\Desktop\Projetos C#\Config HC\Config HC\obj\x86\Debug\Config HC.pdb
+F:\SENAI\Senai-Superior\PRCO\ProgramasC#\WindowsForms\Config HC\Config HC\obj\x86\Debug\Config HC.exe
+F:\SENAI\Senai-Superior\PRCO\ProgramasC#\WindowsForms\Config HC\Config HC\obj\x86\Debug\Config HC.pdb
